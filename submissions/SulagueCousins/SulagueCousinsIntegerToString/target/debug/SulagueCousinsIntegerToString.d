@@ -1,0 +1,1 @@
+/Users/macbookpro/forked/rust-basics-web3-cebu-polkadot/submissions/SulagueCousins/SulagueCousinsIntegerToString/target/debug/SulagueCousinsIntegerToString: /Users/macbookpro/forked/rust-basics-web3-cebu-polkadot/submissions/SulagueCousins/SulagueCousinsIntegerToString/src/main.rs

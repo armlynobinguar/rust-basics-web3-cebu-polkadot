@@ -1,0 +1,1 @@
+/home/tan/Development/rust/rust-basics-web3-cebu-polkadot/submissions/group-1/group_1_max_min/target/debug/group_1_max_min: /home/tan/Development/rust/rust-basics-web3-cebu-polkadot/submissions/group-1/group_1_max_min/src/main.rs
