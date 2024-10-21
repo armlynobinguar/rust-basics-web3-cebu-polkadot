@@ -1,0 +1,1 @@
+C:\Users\HP\ Pavillion\Desktop\polkadot-workshop\polkadot-final\exercises\activity-2\act-2\target\debug\act-2.exe: C:\Users\HP\ Pavillion\Desktop\polkadot-workshop\polkadot-final\exercises\activity-2\act-2\src\main.rs
